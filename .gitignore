@@ -1,0 +1,10 @@
+# Go 编译后的二进制文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.env
+app.log
